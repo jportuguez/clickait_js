@@ -1,0 +1,22 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+nav.navbar {
+    background-color: orange !important;
+}
+
+.nav-link:hover {
+	font-weight: bold !important;
+}
+h1 {
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+	background-color: orange;
+	color: white;
+	font-size: 20px;
+}

@@ -23,4 +23,9 @@ h1 {
 
 h3 a {
 	color: red !important;
+	padding: 10px 20px,
+	border-radius: 5px;
+	margin: 10px 0;
+	display: inline-block;
+	border: 2px solid #d4c31c;
 }
